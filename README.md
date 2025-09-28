@@ -43,23 +43,6 @@ Tripzy/
 ```
 ---
 
-## 🎨 Screenshots  
-
-> *(Replace with your actual screenshots once the site is live or add images in the repo)*  
-
-### 🏠 Homepage  
-![Homepage Preview]((https://github.com/Doremon-tech-svg/Tripzy-wd_assign_1/blob/main/Homepage_1.png))  
-
-### 🌆 Destinations  
-![Destinations Preview]([https://via.placeholder.com/800x400.png?text=Destinations+Preview](https://drive.google.com/file/d/1RP14afAAU8UMxB5ANfJdmiS3auZ4ogaY/view?usp=drive_link))  
-
-### 💼 Packages  
-![Packages Preview]([https://via.placeholder.com/800x400.png?text=Packages+Preview](https://drive.google.com/file/d/1iLY21l4ypRjKyJEZfYUlHDZZL35F3oC_/view?usp=drive_link))  
-
-### 📩 Contact Page  
-![Contact Preview]([https://via.placeholder.com/800x400.png?text=Contact+Preview](https://drive.google.com/file/d/1ziNYbO6q8jGYGDUpTzNLDIZeBujwB93B/view?usp=drive_link))  
-
----
 
 ## 🛠️ Tech Stack  
 
