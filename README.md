@@ -1,7 +1,7 @@
 # 🌍 Tripzy – A Simple Travel Website  
 
 > ✈️ *Find your next trip with ease!*
-> [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)  
 
@@ -48,16 +48,16 @@ Tripzy/
 > *(Replace with your actual screenshots once the site is live or add images in the repo)*  
 
 ### 🏠 Homepage  
-![Homepage Preview](https://via.placeholder.com/800x400.png?text=Homepage+Preview)  
+![Homepage Preview]([https://via.placeholder.com/800x400.png?text=Homepage+Preview](https://drive.google.com/file/d/14jQJFYRN4tco6OH18mjjDgXnv58uLZg1/view?usp=drive_link))  
 
 ### 🌆 Destinations  
-![Destinations Preview](https://via.placeholder.com/800x400.png?text=Destinations+Preview)  
+![Destinations Preview]([https://via.placeholder.com/800x400.png?text=Destinations+Preview](https://drive.google.com/file/d/1RP14afAAU8UMxB5ANfJdmiS3auZ4ogaY/view?usp=drive_link))  
 
 ### 💼 Packages  
-![Packages Preview](https://via.placeholder.com/800x400.png?text=Packages+Preview)  
+![Packages Preview]([https://via.placeholder.com/800x400.png?text=Packages+Preview](https://drive.google.com/file/d/1iLY21l4ypRjKyJEZfYUlHDZZL35F3oC_/view?usp=drive_link))  
 
 ### 📩 Contact Page  
-![Contact Preview](https://via.placeholder.com/800x400.png?text=Contact+Preview)  
+![Contact Preview]([https://via.placeholder.com/800x400.png?text=Contact+Preview](https://drive.google.com/file/d/1ziNYbO6q8jGYGDUpTzNLDIZeBujwB93B/view?usp=drive_link))  
 
 ---
 
@@ -73,4 +73,4 @@ Tripzy/
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/tripzy-travel-website.git
+   git clone https://github.com/Doremon-tech-svg/Tripzy-wd_assign_1.git
