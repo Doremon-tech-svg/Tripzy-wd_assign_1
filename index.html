@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Travel Website</title>
+    <!-- style sheet linked -->
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+    <!-- Header (top of page) -->
+    <header>
+        <!-- site name -->
+        <h2 id="webName">Tripzy.com</h2>
+        <!-- nav bar with links to other pages-->
+        <nav>
+            <a href="/index.html">Home</a>
+            <a href="/destinations.html">Destinations</a>
+            <a href="/packages.html">Packages</a>
+            <a href="/contact.html">Contact Us</a>
+        </nav>
+
+        <!-- hero text / small tagline -->
+        <div id="headbox">
+            <h2 class="headText">Find your next trip</h2>
+            <p class="headText">Search favorite destinations and much more...</p>
+        </div>
+    </header>
+
+    <!-- main content -->
+    <main>
+        
+        <div id="about">
+            <h2>About Us</h2>
+            <p>
+                Welcome to <b>Tripzy</b>, your trusted travel partner. 
+                We believe that <i>every journey</i> is a new story waiting to be written. 
+                Our team ensures <u>comfort</u>, <b>affordability</b>, and <i>memorable experiences</i>.
+            </p>
+            <p>
+                Whether you love <b><i>adventure</i></b>, relaxing beaches, or exploring new cultures, we have something for everyone. 
+                We avoid <s>boring tours</s> and make sure you enjoy the best of every destination. 
+            </p>
+            <!-- horizontal rule to separate  -->
+            <hr />
+        </div>
+
+        <!-- popular Destinations -->
+        <div id="destinations">
+            <h2>Popular Destinations</h2>
+<div id="desImage">
+    <!-- each city-box holds an image and a label on top-left (inspired from booking.com) -->
+    <div class="city-box">
+        <a href="https://delhitourism.gov.in/" target="_blank">
+            <img src="https://cf.bstatic.com/xdata/images/city/600x600/990313.jpg?k=940929beb89e058f8a4d60b605795d4424c2b4ea9463ecf102fa81dac2ab549e&o=">
+            <!-- label shows flag + city name -->
+            <span class="city-label">🇮🇳 Delhi</span>
+        </a>
+    </div>
+
+    <div class="city-box">
+        <a href="https://bangaloretourism.in/" target="_blank">
+            <img src="https://cf.bstatic.com/xdata/images/city/600x600/990511.jpg?k=7a4ae0bcd342f9872b523ebc2463f973abe541c7f94d127dfe5a33a243c68234&o=">
+            <span class="city-label">🇮🇳 Bangalore</span>
+        </a>
+    </div>
+
+    <div class="city-box">
+        <a href="https://maharashtratourism.gov.in/districts/mumbai-city/" target="_blank">
+            <img src="https://cf.bstatic.com/xdata/images/city/600x600/971346.jpg?k=40eeb583a755f2835f4dcb6900cdeba2a46dc9d50e64f2aa04206f5f6fce5671&o=">
+            <span class="city-label">🇮🇳 Mumbai</span>
+        </a>
+    </div>
+
+    <div class="city-box">
+        <a href="https://www.hyderabadtourism.in/" target="_blank">
+            <img src="https://cf.bstatic.com/xdata/images/city/600x600/684653.jpg?k=306ccafcc8a4a7e23b9e8a05b183453fe885b312a4daa5ce76ec39a1b79cbc6f&o=">
+            <span class="city-label">🇮🇳 Hyderabad</span>
+        </a>
+    </div>
+
+    <div class="city-box">
+        <a href="https://www.tamilnadutourism.tn.gov.in/destinations/chennai" target="_blank">
+            <img src="https://cf.bstatic.com/xdata/images/city/600x600/684730.jpg?k=e37b93d88c1fe12e827f10c9d6909a1def7349be2c68df5de885deaa4bc01ee3&o=">
+            <span class="city-label">🇮🇳 Chennai</span>
+        </a>
+    </div>
+</div>
+
+        <div id="packages">
+            <!-- packages heading and short text -->
+            <h2>Travel Packages</h2>
+            <p>Explore our exclusive travel packages tailored for you.</p>
+
+            <!-- table with 4 rows , 3 cols as required by assignment -->
+            <table>
+                <tr>
+                    <th>Destination</th>
+                    <th>Price</th>
+                    <th>Duration</th>
+                </tr>
+                <tr>
+                    <td>Delhi</td>
+                    <td>$300</td>
+                    <td>3 Days</td>
+                </tr>
+                <tr>
+                    <td>Mumbai</td>
+                    <td>$400</td>
+                    <td>4 Days</td>
+                </tr>
+                <tr>
+                    <td>Bangalore</td>
+                    <td>$350</td>
+                    <td>3 Days</td>
+                </tr>
+                <tr>
+                    <td>Hyderabad</td>
+                    <td>$450</td>
+                    <td>5 Days</td>
+                </tr>
+            </table>
+            <br>
+            
+            <hr>
+        </div>
+
+        <!-- travel lists-->
+        <div>
+            <h2>Travel Lists</h2>
+
+            <h3>Top 5 Destinations</h3>
+            <!-- ordered list -->
+            <ol>
+                <li>Paris</li>
+                <li>New York</li>
+                <li>Tokyo</li>
+                <li>Dubai</li>
+                <li>Rome</li>
+            </ol>
+
+            <h3>Travel Essentials </h3>
+            <!-- unordered list -->
+            <ul>
+                <li>Passport</li>
+                <li>Clothes</li>
+                <li>Camera</li>
+                <li>First Aid Kit</li>
+                <li>Power Bank</li>
+            </ul>
+
+            <h3>Travel Terms </h3>
+            <!-- defination list -->
+            <dl>
+                <dt>Visa</dt>
+                <dd>A document that allows you to enter another country.</dd>
+                <dt>Itinerary</dt>
+                <dd>A planned schedule of your travel activities.</dd>
+                <dt>Layover</dt>
+                <dd>A stop at an airport between connecting flights.</dd>
+            </dl>
+        </div>
+    </main>
+
+    <!--  (bottom of page) -->
+    <footer>
+        <p id="copyright">&copy; 2025 Tripzy. All rights reserved.</p>
+    </footer>      
+</body>
+</html>

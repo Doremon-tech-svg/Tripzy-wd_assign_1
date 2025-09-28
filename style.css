@@ -1,0 +1,178 @@
+* {
+    /* using universal selctor */
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #F4F5F6;
+}
+
+header {
+    background-color: #003b95;
+    padding: 10px 0;
+    height: 20rem;
+}
+nav{
+    margin-left: 3rem;
+    margin-top: 1.5rem;
+}
+
+#webName{
+    color:white;
+    text-align:left;
+    margin-left: 4rem;
+    margin-top: 0.5rem;
+    font-size: 2rem;
+}
+.headText{
+    color:white;
+}
+#headbox p{
+    font-size: 2rem;
+}
+#headbox h2{
+    font-size: 3rem;
+}
+#headbox {
+    margin:4rem;
+}
+section {
+    padding: 20px;
+}
+h2 {
+    color: #2980b9;
+    margin-bottom: 10px;
+}
+p {
+    line-height: 1.6;
+    color: #34495e;
+}
+form {
+    max-width: 400px;      
+    margin: 0 auto;         /* top,bottom margin0 and left ,right auto=center */
+    display: flex;          /*flex property can be used */
+    flex-direction: column; /* arranges child elements  vertically */
+}
+label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+input, textarea {
+    margin-bottom: 15px;
+    padding: 10px;   /* inner space inside the input, makes it look bigger */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+nav a {
+    padding: 10px;
+    background-color: #003b95;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 1rem;
+}
+nav a:hover {
+    background-color: #2980b9;
+}
+footer {
+    background-color: #2c3e50;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px 0;
+    width: 100%;
+    bottom: 0;
+}       
+#copyright {
+    margin: 0;
+    color: #ffffff;
+}
+
+#destinations {
+    margin: 4rem;
+}
+
+#desImage img{
+   border-radius: 1rem;
+   height: 20rem;
+   display: inline-block;
+   margin: 2.5rem;
+
+}
+
+#desImage {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.city-box {
+    position: relative;  
+    /* all the child inside it will position relative to this box */
+    display: inline-block;
+}
+
+.city-box img {
+    border-radius: 1rem;
+    height: 18rem;
+    width: 18rem;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.city-box img:hover {
+    transform: scale(1.05);
+    /* trasformin on hover */
+}
+
+.city-label {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    /* will fix itelf 10px top,left inside city-box */
+    background: rgb(0, 0, 0,0.6);
+    /* 0.6  is opacity */
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background: #fff;
+
+}
+th {
+    background: #003b95;
+    color: white;
+}
+td, th {
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+div ol, div ul, div dl {
+    margin: 1rem 2rem;
+    font-size: 1.1rem;
+}
+
+#about {
+    margin:4rem;
+}
+
+#track{
+    width:80%;
+    max-width:600px;
+    display:block;
+    margin:20px auto;
+    border-radius:10px;
+
+}
+
+.box{
+    margin: 4rem;
+}
