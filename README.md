@@ -24,16 +24,18 @@ This project simulates a simple **homepage for a travel agency**, showcasing des
 
 ---
 
+
 ## 📂 Project Structure  
 
+```plaintext
 Tripzy/
 │
-├── index.html # Homepage
-├── destinations.html # Popular destinations
-├── packages.html # Travel packages
-├── contact.html # Contact form
-├── style.css # Stylesheet
-└── /images # (optional folder for local images)
+├── index.html          # Homepage  
+├── destinations.html   # Popular destinations  
+├── packages.html       # Travel packages  
+├── contact.html        # Contact form  
+├── style.css           # Stylesheet  
+└── /images             # (optional folder for local images)  
 
 ---
 
