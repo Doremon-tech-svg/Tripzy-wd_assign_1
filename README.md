@@ -48,7 +48,7 @@ Tripzy/
 > *(Replace with your actual screenshots once the site is live or add images in the repo)*  
 
 ### 🏠 Homepage  
-![Homepage Preview]([https://via.placeholder.com/800x400.png?text=Homepage+Preview](https://drive.google.com/file/d/14jQJFYRN4tco6OH18mjjDgXnv58uLZg1/view?usp=drive_link))  
+![Homepage Preview]((https://github.com/Doremon-tech-svg/Tripzy-wd_assign_1/blob/main/Homepage_1.png))  
 
 ### 🌆 Destinations  
 ![Destinations Preview]([https://via.placeholder.com/800x400.png?text=Destinations+Preview](https://drive.google.com/file/d/1RP14afAAU8UMxB5ANfJdmiS3auZ4ogaY/view?usp=drive_link))  
